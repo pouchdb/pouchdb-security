@@ -27,7 +27,7 @@
     "pouchdb-bulkdocs-wrapper": "^1.0.0",
     "pouchdb-wrappers": "^1.3.6",
     "pouchdb-plugin-error": "^1.0.0",
-    "pouchdb-changeslike-wrapper": "^1.0.0"
+    "pouchdb-changeslike-wrapper": "^1.0.1"
   },
   "devDependencies": {
     "pouchdb-plugin-helper": "^3.0.0",
