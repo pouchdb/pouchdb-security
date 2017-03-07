@@ -1,6 +1,8 @@
 pouchdb-security
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-security.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-security.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-security)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-security.svg)](https://david-dm.org/pouchdb/pouchdb-security)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-security/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-security#info=devDependencies)
